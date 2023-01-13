@@ -12,3 +12,8 @@ namespace OOP3
         void BiseyYap();
     }
 }
+
+
+/*Not=İnterfaceleri birbirinin alternatifi olan ama kod içerikleri farklı olan durumlar için kullanırız.*/
+
+/*Loglama yapmak=kimin ne zaman hangi değişikliği yaptığı kayıtı tutar*/
